@@ -26,12 +26,13 @@ Collaboration on MVC web application in C# using Visual Studio, Azure DevOps, an
 
 <h3 id="crud">CRUD</h3>
 <p>Using MVC scaffolding developed the CRUD pages for the blog author area.</p>
-<img src="code-snippets/blog-author-index.png">
 <a href="code-snippets/blog-author-index.png">Index Page</a>
-<img src="code-snippets/create-page.png">
+<img src="code-snippets/blog-author-index.png">
 <a href="code-snippets/create-page.png">Create Page</a>
-<img src="code-snippets/details-page.png">
+<img src="code-snippets/create-page.png">
 <a href="code-snippets/details-page.png">Details Page</a>
+<img src="code-snippets/details-page.png">
+
 
 <h3 id="part1">Blog Author Styling Pt. 1</h3>
 <img src="">
