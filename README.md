@@ -43,13 +43,12 @@ Collaboration on MVC web application in C# using Visual Studio, Azure DevOps, an
 <h3 id="skills">Additional Skills</h3>
 <ul>
     <li>Team Setting: Worked alongside other developers, utilizing Agile and Scrum framework for project management.</li>
-    <li>Version Control: Maintained integrations of updates into existing architecture usiong version control.</li>
-    <li>Debugging: Resolved and debugged issues in collaborations with other developers and project managers ensuring smooth workflow.</li>
+    <li>Version Control: Maintained integration of updates into existing architecture using version control.</li>
+    <li>Debugging: Resolved and debugged issues in collaboration with other developers and project managers ensuring smooth workflow.</li>
 </ul>
 
 <h3>Challenges</h3>
 <ul>
-    <li>Coming onto a project mid development, I had to make sure I reviewed the project code forseeing code conflict with assigned tasks. To resolve any issues I would trace my steps utilizing previous code and creating custom classes as needed.</li>
-    <li>With a project this scale, when assigned a task, initially I had several questions on project practices. I was able to find several answers to my questios in the project wiki/resources. When needed I reached out to project managers to clarify any quesitons.</li>
-    <li></li>
+    <li>Coming onto a project mid development I had to make sure I reviewed the project forseeing code conflict with assigned tasks. To resolve any issues I would trace my steps utilizing previous code and creating custom classes as needed.</li>
+    <li>With a project this scale, when assigned a task, initially I had several questions on project practices. I found my answers in the project wiki/resources. When needed I reached out to project managers to clarify any quesitons.</li>
 </ul>
